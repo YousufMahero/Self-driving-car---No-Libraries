@@ -1,5 +1,5 @@
 # Self-driving-car---No-Libraries
-Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning (Youtube Video Impl)
+Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning (Youtube Video Implementation)
 
 
 <p><img align="right" src="https://github.com/YousufMahero/Self-driving-car---No-Libraries/blob/master/applied_method.gif" width="500" heightt="320"  /></p>
@@ -17,11 +17,7 @@ Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning
 
 [![For the Lecture](https://img.youtube.com/vi/Rs_rAxEsAvI/0.jpg)](https://www.youtube.com/watch?v=Rs_rAxEsAvI)
 
-
-
-
-
-Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning (Youtube Video Impl)
+Github Repo of the course: https://github.com/gniziemazity/Self-driving-car
 
 <br />
 <br />
